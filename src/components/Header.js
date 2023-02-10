@@ -20,8 +20,8 @@ const Header = () => {
             <div className="col-6">
               <p className="text-end text-white mb-0">
                 Hotline:
-                <a className="text-white" href="tel:+91 8264954234">
-                  +91 8264954234
+                <a className="text-white" href="tel:+855 123 456">
+                  +855 123 456
                 </a>
               </p>
             </div>
@@ -33,7 +33,7 @@ const Header = () => {
           <div className="row align-items-center">
             <div className="col-2">
               <h2>
-                <Link className="text-white">Leng Store</Link>
+                <Link href='http://localhost:3000' className="text-white">Leng Store</Link>
               </h2>
             </div>
             <div className="col-5">

@@ -14,7 +14,7 @@ const Contact = () => {
         <div className="row">
           <div className="col-12">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6986.771103663534!2d76.99275607711007!3d28.886888929272477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390da5e51463d4c9%3A0xe5a485e2ac7c3d4a!2sMandaura%2C%20Haryana%20131103!5e0!3m2!1sen!2sin!4v1669909087902!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.4896709750715!2d104.92822081479359!3d11.588396491773677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310953fd9f9a51e9%3A0xc26eafcd2ed5ca29!2sNorton%20University!5e0!3m2!1sen!2skh!4v1676025242623!5m2!1sen!2skh"
               width="600"
               height="450"
               className="border-0 w-100"
@@ -71,23 +71,22 @@ const Contact = () => {
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <AiOutlineHome className="fs-5" />
                       <address className="mb-0">
-                        Hno:277 , Near village chopal , Mandaura, Sonipat,
-                        Haryana
+                       Sangkat, St. Keo Chenda, Cambodia-Japan Friendship Bridge, Phnom Penh
                       </address>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <BiPhoneCall className="fs-5" />
-                      <a href="tel:+91 8264954234">+91 8264954234</a>
+                      <a href="tel:+855 123 456">+855 123 456</a>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <AiOutlineMail className="fs-5" />
                       <a href="mailto:navdeepdahiya753@gmail.com">
-                        navdeepdahiya753@gmail.com
+                        norton@gmail.com.kh
                       </a>
                     </li>
                     <li className="mb-3 d-flex gap-15 align-items-center">
                       <BiInfoCircle className="fs-5" />
-                      <p className="mb-0">Monday – Friday 10 AM – 8 PM</p>
+                      <p className="mb-0">Monday – Friday 7 AM – 8 PM</p>
                     </li>
                   </ul>
                 </div>
